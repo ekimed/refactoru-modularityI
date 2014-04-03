@@ -1,0 +1,112 @@
+/* ADD YOUR STYLES HERE */
+
+
+.bottom-border {
+	border-bottom: 2px solid #bdc3c7;
+}
+
+.top-border {
+	border-top: 2px solid #bdc3c7;
+}
+
+.big-bold {
+	font-size: 30px;
+
+}
+
+.big-table {
+	width: 90%;
+}
+
+.stats-table {
+	width: 30%;
+	text-align: center;
+}
+
+
+.small-grey{
+	font-size: 12px;
+	color: #bdc3c7;
+}
+
+tr {
+	line-height: 25px;
+	font-size: 15px;
+}
+
+.stats-data {
+	padding: 20px 15px 15px;
+	font-weight: bold;
+}
+
+.bar {
+    background: #3498db;
+    color: #fff;
+    text-indent: 5px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    line-height: 25px;
+}
+
+.lang {
+	text-align: right;
+	width: 82px;
+	padding-right: 5px;
+}
+ .background {
+ 	display: none;
+ 	top: 0;
+ 	left: 0;
+ 	height: 100%;
+ 	width: 100%;
+ 	position: absolute;
+
+ }
+
+ .large-box {
+ 	height: 100%;
+ 	width: 100%;
+ 	position: fixed;	
+ 	background-color: rgba(0, 0, 0, 0.8);
+ 	/*opacity: 0.8;*/
+ }
+
+.medium-box {
+ 	padding: 25px;
+ 	z-index: 1002;
+ 	overflow: auto;
+ 	position: fixed;
+ 	margin: 15% 30%;
+ 	border-radius: 15px;
+ 	background-color: #ecf0f1;
+ }
+
+a, .button {
+	background-color: #e74c3c;
+	position: relative;
+	width: 100px;
+	left: 0px;
+	float: right;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.avatar, .comment-block {
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+}
+
+.comment-block {
+	width: 90%
+}
+
+
+
+
+
+ 
+
+
+
